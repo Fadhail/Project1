@@ -13,5 +13,6 @@
     <!-- Akhir Navbar -->
     
     <h1>INI HOMEPAGE</h1>
+    <p>Test</p>
 </body>
 </html>
